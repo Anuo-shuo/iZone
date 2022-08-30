@@ -5,4 +5,4 @@
 
 
 
-注：projects放置在OneOS-v2.3.0根目录下
+注：projects放置在OneOS-v2.3.0/xxxxx目录下
